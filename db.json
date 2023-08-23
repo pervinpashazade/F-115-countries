@@ -1,0 +1,79 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Azerbaijan"
+    },
+    {
+      "id": 2,
+      "name": "Turkey"
+    },
+    {
+      "name": "Brazil",
+      "id": 3
+    },
+    {
+      "name": "Georgia",
+      "id": 4
+    },
+    {
+      "name": "Deutschland",
+      "id": 5
+    },
+    {
+      "name": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "id": 12
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Baku",
+      "country_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ankara",
+      "country_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Istanbul",
+      "country_id": 2
+    },
+    {
+      "name": "Izmir",
+      "country_id": 2,
+      "id": 4
+    },
+    {
+      "name": "Rize",
+      "country_id": 2,
+      "id": 5
+    }
+  ]
+}
